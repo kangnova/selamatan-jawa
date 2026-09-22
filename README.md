@@ -4,6 +4,10 @@ Kalkulator jadwal selamatan tradisi Jawa — hitung kapan Nelung Dina (3), Mitun
 
 A single-file web app to calculate Javanese death-commemoration (*selamatan*) schedules — 3, 7, 40, 100 days, 1 & 2 years, and 1000 days (*nyewu*) — including the Javanese day and *pasaran* (*weton*).
 
+## Demo Langsung
+
+Coba langsung di: https://selamatan-jawa.vercel.app
+
 ## Fitur
 
 - Masukkan tanggal wafat, langsung dapat daftar lengkap 7 tahap selamatan beserta tanggal Masehi, hari, pasaran, weton, dan neptu.
